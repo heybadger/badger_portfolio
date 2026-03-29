@@ -1,6 +1,6 @@
 # 🦡 Badger Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]([https://your-portfolio-url.com](https://badger-5al46zfam-dumpingfilescuzwhynots-projects.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]([https://your-portfolio-url.com](https://badger-5al46zfam-dumpingfilescuzwhynots-projects.vercel.app/))
 [![GitHub last commit](https://img.shields.io/github/last-commit/heybadger/your-repo-name)](https://github.com/heybadger/your-repo-name/commits/main)
 [![Status](https://img.shields.io/badge/Status-WIP-yellow)]()
 
