@@ -1,7 +1,7 @@
 # 🦡 Badger Portfolio Website
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)]([https://your-portfolio-url.com](https://badger-5al46zfam-dumpingfilescuzwhynots-projects.vercel.app/))
-[![GitHub last commit](https://img.shields.io/github/last-commit/heybadger/your-repo-name)](https://github.com/heybadger/your-repo-name/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/heybadger/Badger)](https://github.com/heybadger/Badger/commits/main)
 [![Status](https://img.shields.io/badge/Status-WIP-yellow)]()
 
 > A personal portfolio website showcasing my journey as an Information Systems student, featuring my skills, projects, and creative work.
